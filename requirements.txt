@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.30.0
 numpy
 pandas
 plotly
-cirq
+cirq-core>=1.4.0
+cirq-google>=1.4.0
 cryptography
